@@ -1,0 +1,1260 @@
+﻿{
+  "packName": "Let\u0027s Rollplay",
+  "version": "1.0.1",
+  "publishedAt": "2026-11-12T18:46:56.6477210Z",
+  "minecraftVersion": "1.20.1",
+  "forgeVersion": "47.4.10",
+  "serverIp": "168.119.33.7",
+  "serverPort": 25545,
+  "overridesUrl": "https://raw.githubusercontent.com/Pralex28/lets-rollplay-updates/main/overrides.zip",
+  "overridesSha256": "d0273153154a98424f403c28876603c023e4280d2879ecdb0b06e61a71ce7d93",
+  "overridesSize": 1728447,
+  "mods": [
+    {
+      "name": "Large Ore Deposits",
+      "fileName": "AdLods-1.20.1-8.1.12.0-build.2294.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8554/373/AdLods-1.20.1-8.1.12.0-build.2294.jar",
+      "size": 247470,
+      "sha1": "854e53de4c33c21735efe526f3579a84ec39503e"
+    },
+    {
+      "name": "Applied Energistics 2 Wireless Terminals",
+      "fileName": "ae2wtlib-15.3.3-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7251/206/ae2wtlib-15.3.3-forge.jar",
+      "size": 229518,
+      "sha1": "1a546af04844677542b6914191783c7de15364fc"
+    },
+    {
+      "name": "AEInfinityBooster",
+      "fileName": "AEInfinityBooster-1.20.1-1.0.0\u002B51.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6482/257/AEInfinityBooster-1.20.1-1.0.0%2b51.jar",
+      "size": 25924,
+      "sha1": "75a5e5d6b656034f0e33f627899c58de5b7c6e12"
+    },
+    {
+      "name": "AI Improvements: Performance Tuning",
+      "fileName": "AI-Improvements-1.20-0.5.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4578/262/AI-Improvements-1.20-0.5.2.jar",
+      "size": 29553,
+      "sha1": "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8"
+    },
+    {
+      "name": "Alex\u0027s Caves",
+      "fileName": "alexscaves-2.0.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5848/216/alexscaves-2.0.2.jar",
+      "size": 74871657,
+      "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53"
+    },
+    {
+      "name": "Alex\u0027s Delight",
+      "fileName": "alexsdelight-1.5.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5028/450/alexsdelight-1.5.jar",
+      "size": 55398,
+      "sha1": "ef7049ba6f16df22c8d98dd4dad2d9dc2aa6b6ba"
+    },
+    {
+      "name": "Alex\u0027s Mobs",
+      "fileName": "alexsmobs-1.22.9.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5698/791/alexsmobs-1.22.9.jar",
+      "size": 26350793,
+      "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f"
+    },
+    {
+      "name": "Alternate Current",
+      "fileName": "alternate_current-mc1.20-1.7.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4721/662/alternate_current-mc1.20-1.7.0.jar",
+      "size": 36703,
+      "sha1": "02def44a2c416459ee5daecbe1caa6d78571e205"
+    },
+    {
+      "name": "Amendments",
+      "fileName": "amendments-1.20-2.2.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8657/397/amendments-1.20-2.2.6.jar",
+      "size": 1315525,
+      "sha1": "dc79f8c5326b059c8f136765b4bca826147cf2d7"
+    },
+    {
+      "name": "Apothic Attributes",
+      "fileName": "ApothicAttributes-1.20.1-1.3.7.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5634/71/ApothicAttributes-1.20.1-1.3.7.jar",
+      "size": 227511,
+      "sha1": "1dc0744d17f0861fe6b067798d39abce9d8e0e86"
+    },
+    {
+      "name": "Applied Energistics 2",
+      "fileName": "appliedenergistics2-forge-15.4.10.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7148/487/appliedenergistics2-forge-15.4.10.jar",
+      "size": 8495956,
+      "sha1": "ac255a120499f79f8deade474da09e3c00ff9bad"
+    },
+    {
+      "name": "Architectury API",
+      "fileName": "architectury-9.2.14-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5137/938/architectury-9.2.14-forge.jar",
+      "size": 580602,
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4"
+    },
+    {
+      "name": "Artifacts",
+      "fileName": "artifacts-forge-9.5.19.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7903/806/artifacts-forge-9.5.19.jar",
+      "size": 850974,
+      "sha1": "91ab6fc2cc208550f7fc37c43e42eba81eff318e"
+    },
+    {
+      "name": "Async Locator",
+      "fileName": "async-locator-forge-1.20-1.3.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4603/343/async-locator-forge-1.20-1.3.0.jar",
+      "size": 264951,
+      "sha1": "fa8e3d65644e5bf1ea62f1ba3c94b0982dfb7357"
+    },
+    {
+      "name": "Athena",
+      "fileName": "athena-forge-1.20.1-3.1.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5176/879/athena-forge-1.20.1-3.1.2.jar",
+      "size": 91808,
+      "sha1": "2acee24454af859988a691f0506271a465f68f7b"
+    },
+    {
+      "name": "AttributeFix",
+      "fileName": "AttributeFix-Forge-1.20.1-21.0.5.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7612/291/AttributeFix-Forge-1.20.1-21.0.5.jar",
+      "size": 19499,
+      "sha1": "76d6b2d0f2a3c9842587ad20666ba419cd8c1efa"
+    },
+    {
+      "name": "AzureLib",
+      "fileName": "azurelib-neo-1.20.1-3.1.12.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8367/230/azurelib-neo-1.20.1-3.1.12.jar",
+      "size": 1066523,
+      "sha1": "fa0dae4aae39ae046b52d6fe5e650e2b1e3012ee"
+    },
+    {
+      "name": "BadOptimizations",
+      "fileName": "BadOptimizations-2.4.1-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7338/200/BadOptimizations-2.4.1-1.20.1.jar",
+      "size": 460234,
+      "sha1": "304007dcb0fb15ed1a1bc3771736470dafc5be0f"
+    },
+    {
+      "name": "Balm",
+      "fileName": "balm-forge-1.20.1-7.3.42.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8545/415/balm-forge-1.20.1-7.3.42.jar",
+      "size": 561670,
+      "sha1": "d22394596e9f845c0a9a6e45575dbfbfec6b25d9"
+    },
+    {
+      "name": "Better Weaponry - Better Combat",
+      "fileName": "better_weaponry-1.1.3-forge-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6046/452/better_weaponry-1.1.3-forge-1.20.1.jar",
+      "size": 650331,
+      "sha1": "71fb4518591d3172c93468ab4c5f2aae7cfb3e78"
+    },
+    {
+      "name": "Better Combat [Fabric \u0026 Forge]",
+      "fileName": "bettercombat-forge-1.9.0\u002B1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7287/334/bettercombat-forge-1.9.0%2b1.20.1.jar",
+      "size": 1054339,
+      "sha1": "ea7e7247132cb3acacadd96b2b6b635c4cc63a74"
+    },
+    {
+      "name": "Better Pickaxe Trims",
+      "fileName": "betterpickaxetrims-forge-1.20.1-1.0.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5856/565/betterpickaxetrims-forge-1.20.1-1.0.1.jar",
+      "size": 270115,
+      "sha1": "9268d1a0b1e7b5494a66dc295ecb96373c860dcd"
+    },
+    {
+      "name": "Better Villages - Forge",
+      "fileName": "bettervillage-forge-1.20.1-3.3.1-all.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6563/409/bettervillage-forge-1.20.1-3.3.1-all.jar",
+      "size": 2612506,
+      "sha1": "0c2f647cec98c3a4ca6d05b7a2f14962e66ad824"
+    },
+    {
+      "name": "Biomes O\u0027 Plenty",
+      "fileName": "BiomesOPlenty-1.20.1-18.0.0.592.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4617/259/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+      "size": 21800460,
+      "sha1": "15072eb39c35a3f845d4bb04690d4b7f1808a980"
+    },
+    {
+      "name": "Bookshelf",
+      "fileName": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7612/389/Bookshelf-Forge-1.20.1-20.2.15.jar",
+      "size": 343925,
+      "sha1": "9df4908f606c6dc62a358b3e04e3fdedba59a12c"
+    },
+    {
+      "name": "Caelus API",
+      "fileName": "caelus-forge-3.2.0\u002B1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5281/700/caelus-forge-3.2.0%2b1.20.1.jar",
+      "size": 40125,
+      "sha1": "fa834f140bf7dce7b67c29b46cb531f4309d3209"
+    },
+    {
+      "name": "Camera Mod",
+      "fileName": "camera-forge-1.20.1-1.0.20.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6480/231/camera-forge-1.20.1-1.0.20.jar",
+      "size": 299726,
+      "sha1": "299cc4fa41a12a247cc73024259247574bfa5d0e"
+    },
+    {
+      "name": "Carry On",
+      "fileName": "carryon-forge-1.20.1-2.1.2.7.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4882/500/carryon-forge-1.20.1-2.1.2.7.jar",
+      "size": 439457,
+      "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f"
+    },
+    {
+      "name": "Cataclysm \u0026 BetterCombat - Compatibility",
+      "fileName": "cataclysm_compat_1.20.1-1.0.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7350/922/cataclysm_compat_1.20.1-1.0.2.jar",
+      "size": 19288,
+      "sha1": "d044de22552787ea6c078be0a3eb6358006b3b8d"
+    },
+    {
+      "name": "MrCrayfish\u0027s Furniture Mod (Legacy)",
+      "fileName": "cfm-forge-1.20.1-7.0.0-pre36.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4602/980/cfm-forge-1.20.1-7.0.0-pre36.jar",
+      "size": 2613393,
+      "sha1": "66d0ac56f3f6f1efbd6ed7b3cb4a48824d0585c0"
+    },
+    {
+      "name": "Chef\u0027s Delight [Forge] - Farmer\u0027s Delight Villagers",
+      "fileName": "chefsdelight-1.0.4-forge-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7314/823/chefsdelight-1.0.4-forge-1.20.1.jar",
+      "size": 98303,
+      "sha1": "4bb324dcad6b13df4ecbfa4d9c46664a5ee8da6f"
+    },
+    {
+      "name": "Chipped",
+      "fileName": "chipped-forge-1.20.1-3.0.7.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5813/138/chipped-forge-1.20.1-3.0.7.jar",
+      "size": 15060263,
+      "sha1": "25ee2a0846059d8f21d28b94b7e0229b60cb5499"
+    },
+    {
+      "name": "Chunky (Forge/NeoForge)",
+      "fileName": "Chunky-1.3.146.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5320/28/Chunky-1.3.146.jar",
+      "size": 341451,
+      "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50"
+    },
+    {
+      "name": "Citadel",
+      "fileName": "citadel-2.6.3-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7476/570/citadel-2.6.3-1.20.1.jar",
+      "size": 3185275,
+      "sha1": "fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316"
+    },
+    {
+      "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "fileName": "cloth-config-11.1.136-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5729/105/cloth-config-11.1.136-forge.jar",
+      "size": 1181413,
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f"
+    },
+    {
+      "name": "Clumps",
+      "fileName": "Clumps-forge-1.20.1-12.0.0.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5278/538/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "size": 20299,
+      "sha1": "97cc669f68dbe812cb77cc3631339334fc28b877"
+    },
+    {
+      "name": "Comforts",
+      "fileName": "comforts-forge-6.4.0\u002B1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5503/516/comforts-forge-6.4.0%2b1.20.1.jar",
+      "size": 382083,
+      "sha1": "e7b9fe89566bb1ee013e33745f22f309f679536e"
+    },
+    {
+      "name": "Common Network",
+      "fileName": "common-networking-forge-1.0.6-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8357/966/common-networking-forge-1.0.6-1.20.1.jar",
+      "size": 21714,
+      "sha1": "28c3ffcdec0f39fd91937df203a93de1e6268788"
+    },
+    {
+      "name": "Controlling",
+      "fileName": "Controlling-forge-1.20.1-12.0.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4646/682/Controlling-forge-1.20.1-12.0.2.jar",
+      "size": 115280,
+      "sha1": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd"
+    },
+    {
+      "name": "Create: Create O\u0027 Plenty (Create \u002B Biomes O\u0027 Plenty Mod compat)",
+      "fileName": "COP-Create\u002B6.0.7-3.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8268/957/COP-Create%2b6.0.7-3.1.jar",
+      "size": 46813,
+      "sha1": "0a8c8444ced19bc167888b2f5277a3a5ecad97e9"
+    },
+    {
+      "name": "Create: Copycats\u002B",
+      "fileName": "copycats-3.0.10\u002Bmc.1.20.1-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8822/431/copycats-3.0.10%2bmc.1.20.1-forge.jar",
+      "size": 2003713,
+      "sha1": "939d4ca4ac42b93c05a5fb92e629fb8cff060dc9"
+    },
+    {
+      "name": "CoroUtil",
+      "fileName": "coroutil-forge-1.20.1-1.3.7.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5096/38/coroutil-forge-1.20.1-1.3.7.jar",
+      "size": 64187,
+      "sha1": "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0"
+    },
+    {
+      "name": "Cosmetic Armor Reworked",
+      "fileName": "cosmeticarmorreworked-1.20.1-v1a.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4600/191/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "size": 88752,
+      "sha1": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea"
+    },
+    {
+      "name": "Create: Creative",
+      "fileName": "create_creative-1.20.1-0.1.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5178/863/create_creative-1.20.1-0.1.0.jar",
+      "size": 24248,
+      "sha1": "1895c6a9b524520f884b54e2062bd966506d8686"
+    },
+    {
+      "name": "Create",
+      "fileName": "create-1.20.1-6.0.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7178/761/create-1.20.1-6.0.8.jar",
+      "size": 19170905,
+      "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9"
+    },
+    {
+      "name": "Create Crafts \u0026 Additions",
+      "fileName": "createaddition-1.20.1-1.3.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7208/610/createaddition-1.20.1-1.3.3.jar",
+      "size": 1577313,
+      "sha1": "c7d464c451fdc2979bc29a67d7eec2a30858af12"
+    },
+    {
+      "name": "Create: Applied Kinetics",
+      "fileName": "createappliedkinetics-1.5.1-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6628/405/createappliedkinetics-1.5.1-1.20.1.jar",
+      "size": 67597,
+      "sha1": "339f229406b2d946f4ad92f67b59735ad8668a92"
+    },
+    {
+      "name": "CreativeCore",
+      "fileName": "CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8304/882/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+      "size": 1144128,
+      "sha1": "aef9a8ebdf0be50b6bd8da8ab4153f5085f71a80"
+    },
+    {
+      "name": "Cristel Lib",
+      "fileName": "cristellib-1.1.6-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5869/180/cristellib-1.1.6-forge.jar",
+      "size": 431318,
+      "sha1": "524ecf0f93f28be2f5db21d87dd81bdbc1a450e1"
+    },
+    {
+      "name": "Cupboard",
+      "fileName": "cupboard-1.20.1-4.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8746/423/cupboard-1.20.1-4.1.jar",
+      "size": 33114,
+      "sha1": "cea6ff50c4eb566fec606ba337c1a94e1da6462d"
+    },
+    {
+      "name": "Curios API",
+      "fileName": "curios-forge-5.14.1\u002B1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6418/456/curios-forge-5.14.1%2b1.20.1.jar",
+      "size": 398066,
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480"
+    },
+    {
+      "name": "True Darkness [Forge] - Updated Fork",
+      "fileName": "darkness-forge-1.20.1-2.0.103-fork.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5080/314/darkness-forge-1.20.1-2.0.103-fork.jar",
+      "size": 29331,
+      "sha1": "56be989675f110d74c04567c4ccc3c1941f7472c"
+    },
+    {
+      "name": "Deeper and Darker",
+      "fileName": "deeperdarker-forge-1.20.1-1.3.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5906/86/deeperdarker-forge-1.20.1-1.3.3.jar",
+      "size": 17844266,
+      "sha1": "12f95fa85c62123140d1962702a97a3bb746bbf5"
+    },
+    {
+      "name": "DisenchantingForge",
+      "fileName": "Disenchanting-forge-1.20.1-2.2.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4605/985/Disenchanting-forge-1.20.1-2.2.4.jar",
+      "size": 81717,
+      "sha1": "cacd9bb861428421687d1061e383368f2e11a105"
+    },
+    {
+      "name": "Dreamshift",
+      "fileName": "dreamshift-0.1.4.3.1-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8750/240/dreamshift-0.1.4.3.1-forge.jar",
+      "size": 517417313,
+      "sha1": "c142c83b3a6ac5e2b10dd2f0fa84ea3270c29f75"
+    },
+    {
+      "name": "Dungeon Crawl",
+      "fileName": "Dungeon Crawl-1.20.1-2.3.15.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6047/153/Dungeon%20Crawl-1.20.1-2.3.15.jar",
+      "size": 758123,
+      "sha1": "e17ebc9be0b3f0646f2de10563b72827442cc866"
+    },
+    {
+      "name": "Dungeons Enhanced",
+      "fileName": "dungeons_enhanced-1.20.1-5.4.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7069/98/dungeons_enhanced-1.20.1-5.4.3.jar",
+      "size": 1421681,
+      "sha1": "18a8163d7b9128959091d9cc95d9a14bd1db25bf"
+    },
+    {
+      "name": "When Dungeons Arise - Forge!",
+      "fileName": "DungeonsArise-1.20.x-2.1.58-release.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4983/862/DungeonsArise-1.20.x-2.1.58-release.jar",
+      "size": 8762342,
+      "sha1": "30b4520e4fab40a6bb6153a2c72e34bcb721f0a5"
+    },
+    {
+      "name": "When Dungeons Arise - Seven Seas",
+      "fileName": "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4981/380/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
+      "size": 248169,
+      "sha1": "0390b912cc5534bbe0f01853337d777453ca08de"
+    },
+    {
+      "name": "Easy Repairs",
+      "fileName": "easy_repairs-1.0.0-forge-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5447/479/easy_repairs-1.0.0-forge-1.20.1.jar",
+      "size": 577845,
+      "sha1": "c89f95eb1492a2c34c8a5f2b8b6fa2630d7575f5"
+    },
+    {
+      "name": "Easy Villagers",
+      "fileName": "easy-villagers-forge-1.20.1-1.1.23.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5724/570/easy-villagers-forge-1.20.1-1.1.23.jar",
+      "size": 411343,
+      "sha1": "97690e4039eb71258892edde8b2da8661dffbf5c"
+    },
+    {
+      "name": "Effortless Building",
+      "fileName": "effortlessbuilding-1.20.1-3.11.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7944/965/effortlessbuilding-1.20.1-3.11.jar",
+      "size": 2326090,
+      "sha1": "8009529f3c3baf1db92049dfffd81ba5813bf829"
+    },
+    {
+      "name": "Embeddium",
+      "fileName": "embeddium-0.3.31\u002Bmc1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5681/725/embeddium-0.3.31%2bmc1.20.1.jar",
+      "size": 1320675,
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+    },
+    {
+      "name": "Enchantment Descriptions",
+      "fileName": "EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7612/607/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+      "size": 66883,
+      "sha1": "0328a8350cf0a6d1c44265367a077649088b354b"
+    },
+    {
+      "name": "End Remastered [NeoForge/Fabric]",
+      "fileName": "endrem_forge-5.3.3-R-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5598/990/endrem_forge-5.3.3-R-1.20.1.jar",
+      "size": 889634,
+      "sha1": "b4df41de8439e834a493fe59842709ef33ecfa82"
+    },
+    {
+      "name": "EnhancedVisuals",
+      "fileName": "EnhancedVisuals_FORGE_v1.8.33_mc1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8676/471/EnhancedVisuals_FORGE_v1.8.33_mc1.20.1.jar",
+      "size": 4728528,
+      "sha1": "c82aeb64e63b4b6adc627da337ece4f5021dbb24"
+    },
+    {
+      "name": "Entity Culling Fabric/Forge",
+      "fileName": "entityculling-forge-1.10.5-mc1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8287/86/entityculling-forge-1.10.5-mc1.20.1.jar",
+      "size": 1590221,
+      "sha1": "b818f6d792b79f4ec116c89704e70292bd6f72b5"
+    },
+    {
+      "name": "Evil Hunter 3.0 [Horror]",
+      "fileName": "evilhunter-3.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8824/640/evilhunter-3.0.jar",
+      "size": 227491433,
+      "sha1": "f0f99bff91b8ff1d49433c22311eb0c403099ce0"
+    },
+    {
+      "name": "Explorer\u0027s Compass",
+      "fileName": "ExplorersCompass-1.20.1-1.4.0-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7892/927/ExplorersCompass-1.20.1-1.4.0-forge.jar",
+      "size": 174387,
+      "sha1": "23b7544ab3ebd1ab9c88255434ff9dc7f217766b"
+    },
+    {
+      "name": "Explorify \u2013 Dungeons \u0026 Structures",
+      "fileName": "Explorify v1.6.5.mod.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8082/824/Explorify%20v1.6.5.mod.jar",
+      "size": 767884,
+      "sha1": "5fb28be29200a41b034e423d87823eb19ad651cd"
+    },
+    {
+      "name": "Farmer\u0027s Delight",
+      "fileName": "FarmersDelight-1.20.1-1.3.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8765/179/FarmersDelight-1.20.1-1.3.4.jar",
+      "size": 3311051,
+      "sha1": "26f615fd35f652021f5b0f1cba68afa7d578fe15"
+    },
+    {
+      "name": "Farmers Structures",
+      "fileName": "FarmersStructures-1.0.4-1.20.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7280/525/FarmersStructures-1.0.4-1.20.jar",
+      "size": 425995,
+      "sha1": "efdf64144852cb4c79396ba1303a3752ad023818"
+    },
+    {
+      "name": "FastSuite",
+      "fileName": "FastSuite-1.20.1-5.1.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7527/943/FastSuite-1.20.1-5.1.2.jar",
+      "size": 26600,
+      "sha1": "32ea4495b0e646f8f060e4e97d17044dd9fdefbd"
+    },
+    {
+      "name": "FerriteCore ((Neo)Forge)",
+      "fileName": "ferritecore-6.0.1-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4810/975/ferritecore-6.0.1-forge.jar",
+      "size": 123034,
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+    },
+    {
+      "name": "ForgeEndertech",
+      "fileName": "ForgeEndertech-1.20.1-11.1.11.1-build.2351.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8772/227/ForgeEndertech-1.20.1-11.1.11.1-build.2351.jar",
+      "size": 569841,
+      "sha1": "7819942e133afa1dc41c346e94e0181b6524a172"
+    },
+    {
+      "name": "Friendly Creepers [REFORGED]",
+      "fileName": "friendlycreepers-1.0.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8484/965/friendlycreepers-1.0.1.jar",
+      "size": 49957,
+      "sha1": "3f0041202c46ea05a6f1e6e247446f56a0533d14"
+    },
+    {
+      "name": "FTB Chunks Spawn Guard",
+      "fileName": "ftb_chunks_mobs_spawn_control-1.0.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8986/726/ftb_chunks_mobs_spawn_control-1.0.3.jar",
+      "size": 62013,
+      "sha1": "ebff322a5b3d1ceff70dae7b0796a8d78ff9a94a"
+    },
+    {
+      "name": "FTB Chunks (NeoForge)",
+      "fileName": "ftb-chunks-forge-2001.3.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8216/874/ftb-chunks-forge-2001.3.8.jar",
+      "size": 1159043,
+      "sha1": "ee2d0cdac6d2ca31f43da30f76dff8c6bae9d687"
+    },
+    {
+      "name": "FTB Library (NeoForge)",
+      "fileName": "ftb-library-forge-2001.2.13.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8226/927/ftb-library-forge-2001.2.13.jar",
+      "size": 780558,
+      "sha1": "a5427d5ff07eb044144ed0b54308370d88bce17e"
+    },
+    {
+      "name": "FTB Teams (NeoForge)",
+      "fileName": "ftb-teams-forge-2001.3.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7499/810/ftb-teams-forge-2001.3.2.jar",
+      "size": 252579,
+      "sha1": "c49023f5d471aa1ba7fc624d2565fe9e82b7117e"
+    },
+    {
+      "name": "FTB Ultimine (NeoForge)",
+      "fileName": "ftb-ultimine-forge-2001.1.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7880/472/ftb-ultimine-forge-2001.1.8.jar",
+      "size": 129653,
+      "sha1": "c2a1eb72c36ad067faafbff4e1618c4db906de74"
+    },
+    {
+      "name": "Fzzy Config",
+      "fileName": "fzzy_config-0.7.6\u002B1.20.1\u002Bforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7568/893/fzzy_config-0.7.6%2b1.20.1%2bforge.jar",
+      "size": 2374667,
+      "sha1": "2e9ca1c5f028c251e1bc18b9ebaa06d401c8e624"
+    },
+    {
+      "name": "Gateways to Eternity",
+      "fileName": "GatewaysToEternity-1.20.1-4.2.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5703/251/GatewaysToEternity-1.20.1-4.2.6.jar",
+      "size": 632950,
+      "sha1": "ed2158bade0615c90d50474e2cbf0b32b5eeee61"
+    },
+    {
+      "name": "GeckoLib",
+      "fileName": "geckolib-forge-1.20.1-4.8.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8285/794/geckolib-forge-1.20.1-4.8.4.jar",
+      "size": 1038209,
+      "sha1": "81982cc287f80ffabb2fd36d22cc95e4255c739d"
+    },
+    {
+      "name": "GraveStone Mod",
+      "fileName": "gravestone-forge-1.20.1-1.0.35.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7099/725/gravestone-forge-1.20.1-1.0.35.jar",
+      "size": 317181,
+      "sha1": "a5592ab84eae317907e5003f590cc4a8ba9cbe49"
+    },
+    {
+      "name": "GuideME",
+      "fileName": "guideme-20.1.15.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8204/776/guideme-20.1.15.jar",
+      "size": 9414827,
+      "sha1": "3d432fc99cefcfd17a12635d2d220f09a069f1c7"
+    },
+    {
+      "name": "Handcrafted",
+      "fileName": "handcrafted-forge-1.20.1-3.0.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5118/729/handcrafted-forge-1.20.1-3.0.6.jar",
+      "size": 7111059,
+      "sha1": "f1b9a009529134c736c59d6d192d53a4a25e5e5f"
+    },
+    {
+      "name": "Icarus",
+      "fileName": "Icarus-Forge-2.14.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8753/894/Icarus-Forge-2.14.1.jar",
+      "size": 366489,
+      "sha1": "2d177af9b322eb78586e8761f2fdb128d908670e"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "fileName": "ImmediatelyFast-Forge-1.5.5\u002B1.20.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8348/481/ImmediatelyFast-Forge-1.5.5%2b1.20.4.jar",
+      "size": 532063,
+      "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2"
+    },
+    {
+      "name": "Integrated API",
+      "fileName": "integrated_api-forge-1.20.1-1.8.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8636/564/integrated_api-forge-1.20.1-1.8.0.jar",
+      "size": 704540,
+      "sha1": "1a51d1916eee4a8387ae2153fe09b9f69b98874e"
+    },
+    {
+      "name": "Integrated Cataclysm",
+      "fileName": "integrated_cataclysm_forge-1.0.5\u002B1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7046/903/integrated_cataclysm_forge-1.0.5%2b1.20.1.jar",
+      "size": 5079044,
+      "sha1": "d0092ae1bb847ef7baef59bfa0d6bba22d264b99"
+    },
+    {
+      "name": "Iron Chests",
+      "fileName": "ironchest-1.20.1-14.4.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4614/852/ironchest-1.20.1-14.4.4.jar",
+      "size": 311290,
+      "sha1": "4b2dd0f581e40f8bd6f6e63b2d84c06dfde2c4eb"
+    },
+    {
+      "name": "Iron Furnaces",
+      "fileName": "ironfurnaces-1.20.1-4.1.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7888/952/ironfurnaces-1.20.1-4.1.8.jar",
+      "size": 612921,
+      "sha1": "55386bfd5746bd8588df5d45f19cc964b666afe5"
+    },
+    {
+      "name": "Iron\u0027s Lib",
+      "fileName": "irons_lib-1.20.1-2.1.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8364/892/irons_lib-1.20.1-2.1.0.jar",
+      "size": 428969,
+      "sha1": "c2fa494d679ac912f8fb52ed6f832c1f3817401c"
+    },
+    {
+      "name": "Iron\u0027s Spells \u0027n Spellbooks",
+      "fileName": "irons_spellbooks-1.20.1-3.16.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8680/180/irons_spellbooks-1.20.1-3.16.3.jar",
+      "size": 15570397,
+      "sha1": "726345aa215756bd30b7cf8c338c9ae6bbc59799"
+    },
+    {
+      "name": "Jade \uD83D\uDD0D",
+      "fileName": "Jade-1.20.1-Forge-11.13.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8479/276/Jade-1.20.1-Forge-11.13.3.jar",
+      "size": 553487,
+      "sha1": "d08e64e66521d69e083c8525f1fc507f1c202384"
+    },
+    {
+      "name": "JEI Structures(EMI/JEI)",
+      "fileName": "jei_structures-1.9.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8803/975/jei_structures-1.9.jar",
+      "size": 340908,
+      "sha1": "2ffd53571ac5470dcb0e292b489246763065abf9"
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "fileName": "jei-1.20.1-forge-15.56.0.205.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8778/11/jei-1.20.1-forge-15.56.0.205.jar",
+      "size": 1778129,
+      "sha1": "7f64b7f8fde7f001ef054dabe3618a8780ba2650"
+    },
+    {
+      "name": "Just Enough Resources (JER)",
+      "fileName": "JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5057/220/JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "size": 276231,
+      "sha1": "2747c58f439c37a01139d35cab59ca1a54114009"
+    },
+    {
+      "name": "Knight Lib",
+      "fileName": "knightlib-forge-1.20.1-2.0.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8829/349/knightlib-forge-1.20.1-2.0.0.jar",
+      "size": 1058670,
+      "sha1": "184f3bcb64f3a740d424574fd19d54eaac274991"
+    },
+    {
+      "name": "Knight Quest [Reforged]",
+      "fileName": "knightquest-forge-1.20.1-1.9.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8253/271/knightquest-forge-1.20.1-1.9.6.jar",
+      "size": 5189989,
+      "sha1": "a82cd5ada6cc8374582aeb7075c1153ad5b4ff82"
+    },
+    {
+      "name": "Kotlin for Forge",
+      "fileName": "kotlinforforge-4.12.0-all.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7291/67/kotlinforforge-4.12.0-all.jar",
+      "size": 7442998,
+      "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22"
+    },
+    {
+      "name": "L_Ender \u0027s Cataclysm",
+      "fileName": "L_Enders_Cataclysm-3.31.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8246/47/L_Enders_Cataclysm-3.31.jar",
+      "size": 73916104,
+      "sha1": "4f1165cb39521292e826b471b4808bb89f0f4f3f"
+    },
+    {
+      "name": "[Let\u0027s Do] Brewery - Farm\u0026Charm Compat",
+      "fileName": "letsdo-brewery-forge-2.0.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6847/826/letsdo-brewery-forge-2.0.6.jar",
+      "size": 2048413,
+      "sha1": "ce364781ec9accfdd5bb04f8280ffb542243b1ae"
+    },
+    {
+      "name": "[Let\u0027s Do] Farm \u0026 Charm",
+      "fileName": "letsdo-farm_and_charm-forge-1.0.14.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7088/13/letsdo-farm_and_charm-forge-1.0.14.jar",
+      "size": 2328624,
+      "sha1": "4db017c18fff8356e1aa5f0e9c683f1af30bec2b"
+    },
+    {
+      "name": "Library Ferret - Forge",
+      "fileName": "libraryferret-forge-1.20.1-4.0.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4601/234/libraryferret-forge-1.20.1-4.0.0.jar",
+      "size": 190536,
+      "sha1": "29f240c16ff1a1bc574d69162d379cc1c881e1ab"
+    },
+    {
+      "name": "Lightman\u0027s Currency",
+      "fileName": "lightmanscurrency-1.20.1-2.3.0.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9048/567/lightmanscurrency-1.20.1-2.3.0.6.jar",
+      "size": 10445573,
+      "sha1": "203a6c9fedc2606095ac80cd561c513c952a3a10"
+    },
+    {
+      "name": "Lionfish API",
+      "fileName": "lionfishapi-3.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8095/554/lionfishapi-3.0.jar",
+      "size": 101931,
+      "sha1": "79d0404f87fa066480b18c844c1e0b1c5f5475f9"
+    },
+    {
+      "name": "Loot Integrations: Towns and Towers",
+      "fileName": "lootintegration_townsandtowers-1.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8336/685/lootintegration_townsandtowers-1.4.jar",
+      "size": 5161,
+      "sha1": "703cbb57a8ce1008f080e886cec195e274a82c75"
+    },
+    {
+      "name": "Loot Integrations: When Dungeons Arise \u0026 Co",
+      "fileName": "lootintegration_wda-1.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7925/521/lootintegration_wda-1.8.jar",
+      "size": 8134,
+      "sha1": "d5b8cd7712e9c6db2202b77e3ce3c115640b8395"
+    },
+    {
+      "name": "Loot Integrations: L_Ender \u0027s Cataclysm",
+      "fileName": "lootintegrations_cataclysm-1.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7920/425/lootintegrations_cataclysm-1.2.jar",
+      "size": 5712,
+      "sha1": "75b5e36c11aa16cf0d6c38fcb8cfa2afc31a2bb7"
+    },
+    {
+      "name": "Loot Integrations: Dungeon Crawl",
+      "fileName": "lootintegrations_dungeoncrawl-1.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7914/936/lootintegrations_dungeoncrawl-1.2.jar",
+      "size": 5054,
+      "sha1": "7cdbfc6a9bb30ab03b57ea1fc16bda1df4bb3e05"
+    },
+    {
+      "name": "Dungeons Enhanced Lootintegrations Addon",
+      "fileName": "lootintegrations_dungeonsenhanced-1.7.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7914/970/lootintegrations_dungeonsenhanced-1.7.jar",
+      "size": 5761,
+      "sha1": "a0aa8a714bd9e45640828a35d458a5d4f291f67e"
+    },
+    {
+      "name": "Loot Integrations",
+      "fileName": "lootintegrations-1.20.1-4.7.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6640/968/lootintegrations-1.20.1-4.7.jar",
+      "size": 42220,
+      "sha1": "2aa541075b8e13480db4a8021482fbffb2132337"
+    },
+    {
+      "name": "Lootr (Forge \u0026 NeoForge)",
+      "fileName": "lootr-forge-1.20-0.7.35.94.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7263/76/lootr-forge-1.20-0.7.35.94.jar",
+      "size": 463485,
+      "sha1": "1ec77a7df8adbf3290a296bf25b8f99f37a60020"
+    },
+    {
+      "name": "Mantle",
+      "fileName": "Mantle-1.20.1-1.11.104.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7563/777/Mantle-1.20.1-1.11.104.jar",
+      "size": 1625005,
+      "sha1": "8a3f948f8c505ee92dae915ec0a1593594eb2667"
+    },
+    {
+      "name": "Metal Barrels",
+      "fileName": "MetalBarrels-forge-1.20.1-3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5442/455/MetalBarrels-forge-1.20.1-3.jar",
+      "size": 185065,
+      "sha1": "a05dfaf25691d68deff5b6518fb8aa464b538342"
+    },
+    {
+      "name": "ModernFix",
+      "fileName": "modernfix-forge-5.27.83\u002Bmc1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8774/721/modernfix-forge-5.27.83%2bmc1.20.1.jar",
+      "size": 1003230,
+      "sha1": "24109106b51846d387aa00c06d1445c35410c31c"
+    },
+    {
+      "name": "Moonlight Lib",
+      "fileName": "moonlight-1.20-2.16.35-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8820/589/moonlight-1.20-2.16.35-forge.jar",
+      "size": 1425229,
+      "sha1": "a7885d318f5a6810b0ef543cd1cce7d4308f10e6"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "fileName": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5338/457/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "size": 76237,
+      "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c"
+    },
+    {
+      "name": "Mowzie\u0027s Mobs",
+      "fileName": "mowziesmobs-1.8.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7815/705/mowziesmobs-1.8.2.jar",
+      "size": 36033850,
+      "sha1": "25ffcd175cc03650e38e60d3cb7b3e038d9d3345"
+    },
+    {
+      "name": "Nature\u0027s Compass",
+      "fileName": "NaturesCompass-1.20.1-1.12.0-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7892/948/NaturesCompass-1.20.1-1.12.0-forge.jar",
+      "size": 227495,
+      "sha1": "a8589de59cdd8fed9c29610e624063a2990e422b"
+    },
+    {
+      "name": "MrCrayFish\u0027s Furniture Mod (Legacy Continued) \u002B Nosiphus Furniture Mod",
+      "fileName": "nfm-2026.01.30-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7553/148/nfm-2026.01.30-1.20.1.jar",
+      "size": 2347618,
+      "sha1": "119c5c1ff9cfedc5d79ac97876b795396b7ae784"
+    },
+    {
+      "name": "Not Enough Animations",
+      "fileName": "notenoughanimations-forge-1.12.4-mc1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8274/895/notenoughanimations-forge-1.12.4-mc1.20.1.jar",
+      "size": 1944068,
+      "sha1": "71484079011f71a37d913b491828412992fd8314"
+    },
+    {
+      "name": "ShatterLib | OctoLib",
+      "fileName": "OctoLib-FORGE-0.5.0.1\u002B1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6274/623/OctoLib-FORGE-0.5.0.1%2b1.20.1.jar",
+      "size": 424035,
+      "sha1": "9eab28baff36942e1c924489e34753df10f40208"
+    },
+    {
+      "name": "Ok Zoomer - It\u0027s Zoom!",
+      "fileName": "ok_zoomer-forge-5.4.0-beta.9.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7682/985/ok_zoomer-forge-5.4.0-beta.9.jar",
+      "size": 530268,
+      "sha1": "68578eb7a2bb2f7c1eba041d67e558ebe5e63414"
+    },
+    {
+      "name": "Otherworld [Horror]",
+      "fileName": "otherworld-0.9.2.12.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9249/237/otherworld-0.9.2.12.jar",
+      "size": 73854252,
+      "sha1": "76b822d2719ac0cc252b44cb6f1478aff1382e8b"
+    },
+    {
+      "name": "Packet Fixer",
+      "fileName": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7872/374/packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+      "size": 188657,
+      "sha1": "9d5dafdd31831d47549b0f9fefaee4541464321e"
+    },
+    {
+      "name": "Placebo",
+      "fileName": "Placebo-1.20.1-8.6.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6274/231/Placebo-1.20.1-8.6.3.jar",
+      "size": 282474,
+      "sha1": "e85f53de2e582a79ce25ff1df1e7b5b5fc08440f"
+    },
+    {
+      "name": "playerAnimator",
+      "fileName": "player-animation-lib-forge-1.0.2-rc1\u002B1.20.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4587/214/player-animation-lib-forge-1.0.2-rc1%2b1.20.jar",
+      "size": 181437,
+      "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a"
+    },
+    {
+      "name": "PlayerRevive",
+      "fileName": "PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6048/921/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+      "size": 5298162,
+      "sha1": "84c039f20b8f048c835c429c2c4a9fd82a5e65f6"
+    },
+    {
+      "name": "Polymorph",
+      "fileName": "polymorph-forge-0.49.10\u002B1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6450/982/polymorph-forge-0.49.10%2b1.20.1.jar",
+      "size": 299601,
+      "sha1": "e4afd6f512cc06311320357ed974cee586e031c3"
+    },
+    {
+      "name": "Psychedelic Drug Chemistry",
+      "fileName": "Psychadelic-Chemistry_1.20.1-2.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8468/928/Psychadelic-Chemistry_1.20.1-2.2.jar",
+      "size": 72964331,
+      "sha1": "bba5c056202cb1e50635fb9552b3d9bd9f925625"
+    },
+    {
+      "name": "Puzzles Lib",
+      "fileName": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6918/565/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "size": 1342987,
+      "sha1": "285b7c7616971338ccbe0022c9ea0f8ad3036aaf"
+    },
+    {
+      "name": "Quark",
+      "fileName": "Quark-4.0-462.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6427/817/Quark-4.0-462.jar",
+      "size": 14935230,
+      "sha1": "9b0fb82995622a0070c00827c698c43b49d9d14b"
+    },
+    {
+      "name": "Radium Reforged",
+      "fileName": "radium-mc1.20.1-0.12.4\u002Bgit.26c9d8e.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5706/69/radium-mc1.20.1-0.12.4%2bgit.26c9d8e.jar",
+      "size": 713454,
+      "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a"
+    },
+    {
+      "name": "Relics: Alex\u0027s Mobs Compat",
+      "fileName": "ramcompat-1.20.1-0.1.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5586/345/ramcompat-1.20.1-0.1.4.jar",
+      "size": 43635,
+      "sha1": "6475d3d9eed8ede0a2e9356aacc6a81bf713de2a"
+    },
+    {
+      "name": "Reliquified Artifacts",
+      "fileName": "rarcompat-1.20.1-0.5.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7106/942/rarcompat-1.20.1-0.5.jar",
+      "size": 409926,
+      "sha1": "a6d83f41f0bff392fec5db7e392d57d8b0c818e0"
+    },
+    {
+      "name": "Regions Unexplored",
+      "fileName": "RegionsUnexploredForge-0.5.6\u002B1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5558/225/RegionsUnexploredForge-0.5.6%2b1.20.1.jar",
+      "size": 5726781,
+      "sha1": "990b4b9492a8fd7cd150598e3e02a466efa913fb"
+    },
+    {
+      "name": "Relics",
+      "fileName": "relics-1.20.1-0.8.0.13.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7708/970/relics-1.20.1-0.8.0.13.jar",
+      "size": 1521089,
+      "sha1": "940358d190780a9a59a69dd7e75a5e7cf07e4209"
+    },
+    {
+      "name": "Resourceful Config",
+      "fileName": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6231/176/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "size": 136923,
+      "sha1": "597d40920dcc935f963842c817dcc4901862ab14"
+    },
+    {
+      "name": "Resourceful Lib",
+      "fileName": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5659/871/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "size": 432753,
+      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
+    },
+    {
+      "name": "Embeddium (Rubidium) Extra",
+      "fileName": "rubidium-extra-0.5.4.4\u002Bmc1.20.1-build.131.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6101/745/rubidium-extra-0.5.4.4%2bmc1.20.1-build.131.jar",
+      "size": 568608,
+      "sha1": "bb422d5626bf69841e444a3e545c8e71b6928cf8"
+    },
+    {
+      "name": "Saturation Plus",
+      "fileName": "saturation_plus-1.3.1-forge-1.20.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8208/805/saturation_plus-1.3.1-forge-1.20.jar",
+      "size": 47479,
+      "sha1": "049644b863df0bad35351e2f9ca883ef2f8ea60c"
+    },
+    {
+      "name": "Searchables",
+      "fileName": "Searchables-forge-1.20.1-1.0.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5284/15/Searchables-forge-1.20.1-1.0.3.jar",
+      "size": 77732,
+      "sha1": "ed5a23ec30c90fd06b3f1d8140614028e1fafaee"
+    },
+    {
+      "name": "Simple Weapons for Better Combat",
+      "fileName": "Simple Weapons 1.4.5 - 1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4843/41/Simple%20Weapons%201.4.5%20-%201.20.1.jar",
+      "size": 457120,
+      "sha1": "8394bece20de355e302af98a8ef672fcc46c01b8"
+    },
+    {
+      "name": "Simply More",
+      "fileName": "simplymore-forge-neoforge-1.1.4\u002B1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8736/447/simplymore-forge-neoforge-1.1.4%2b1.20.1.jar",
+      "size": 1570113,
+      "sha1": "02828076f559d4995f864ffa86c3cef3d27a9519"
+    },
+    {
+      "name": "Simply Swords [Fabric \u0026 Forge]",
+      "fileName": "simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8746/28/simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
+      "size": 15765792,
+      "sha1": "7e8b9cc255f57df9ed00b507435308d600aebc24"
+    },
+    {
+      "name": "Simply Tooltips",
+      "fileName": "SimplyTooltips-forge-0.1.5-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8715/158/SimplyTooltips-forge-0.1.5-1.20.1.jar",
+      "size": 5418741,
+      "sha1": "6f437b9269a171bf88eb6215f0dfab6e614f9f00"
+    },
+    {
+      "name": "SL Library",
+      "fileName": "SL-Library-1.6.1-1.20.1\u002B[Forge].jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8687/691/SL-Library-1.6.1-1.20.1%2b%5bForge%5d.jar",
+      "size": 439869,
+      "sha1": "cfbe5308e6325d0d3cd03820c42906bf776bdb0a"
+    },
+    {
+      "name": "SLM: Codex",
+      "fileName": "SLM-Codex-1.4-1.20.1\u002B[Forge].jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8510/929/SLM-Codex-1.4-1.20.1%2b%5bForge%5d.jar",
+      "size": 241803,
+      "sha1": "9254d44312122f91a6db78b33c329ce03278b5c8"
+    },
+    {
+      "name": "SLM: Shader",
+      "fileName": "SLM-Shaders-2.2.2-1.20.1\u002B[Forge].jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8692/526/SLM-Shaders-2.2.2-1.20.1%2b%5bForge%5d.jar",
+      "size": 451674,
+      "sha1": "d03391e4c3d76430d401c92a7ba1899240253146"
+    },
+    {
+      "name": "Slot Machine Espa\u00F1ol",
+      "fileName": "SlotMachineMod-1.20.1-1.0.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9207/637/SlotMachineMod-1.20.1-1.0.0.jar",
+      "size": 112233,
+      "sha1": "1f64a4efa5e71673b00d9f0754deefe58041f4cf"
+    },
+    {
+      "name": "Sodium/Embeddium Dynamic Lights",
+      "fileName": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6044/481/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "size": 511601,
+      "sha1": "d27524e85bed0f0af83c03be46f9ca3eb02a1be9"
+    },
+    {
+      "name": "Sodium/Embeddium Options API",
+      "fileName": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6100/812/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "size": 443978,
+      "sha1": "7529fbf938787ed13a251cbf40936f8c29ec4b6c"
+    },
+    {
+      "name": "Spice of Life: Carrot Edition",
+      "fileName": "solcarrot-1.20.1-1.15.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4888/575/solcarrot-1.20.1-1.15.1.jar",
+      "size": 104185,
+      "sha1": "f7fa1fd0c633b10f98d7f0f97766b95aac1a2dc0"
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "fileName": "sophisticatedbackpacks-1.20.1-3.26.2.2139.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8833/879/sophisticatedbackpacks-1.20.1-3.26.2.2139.jar",
+      "size": 1221846,
+      "sha1": "172625319f3567f405847fd890db7a47477fcb0f"
+    },
+    {
+      "name": "Sophisticated Core",
+      "fileName": "sophisticatedcore-1.20.1-1.5.1.2335.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8839/328/sophisticatedcore-1.20.1-1.5.1.2335.jar",
+      "size": 1734797,
+      "sha1": "68f35e2930bff5f30340419257b38962df2e0983"
+    },
+    {
+      "name": "Marium\u0027s Soulslike Weaponry",
+      "fileName": "soulslike-weaponry-1.4.8-1.20.1-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8302/956/soulslike-weaponry-1.4.8-1.20.1-forge.jar",
+      "size": 54877532,
+      "sha1": "22709a86187b695a3f923bcc2d9da87c638b6c0f"
+    },
+    {
+      "name": "Straw Statues",
+      "fileName": "StrawStatues-v8.0.3-1.20.1-Forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5207/884/StrawStatues-v8.0.3-1.20.1-Forge.jar",
+      "size": 572195,
+      "sha1": "62bb1ff595878693f507378e689cd58e056a51e1"
+    },
+    {
+      "name": "Structure Gel API",
+      "fileName": "structure_gel-1.20.1-2.16.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5278/429/structure_gel-1.20.1-2.16.2.jar",
+      "size": 966028,
+      "sha1": "ec8c59d2a69eca3249a8da673f572b40b6d59895"
+    },
+    {
+      "name": "Supplementaries",
+      "fileName": "supplementaries-1.20-3.1.43-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7884/611/supplementaries-1.20-3.1.43-forge.jar",
+      "size": 13667742,
+      "sha1": "326d65a29981de28016e3828370d68a8f63e1798"
+    },
+    {
+      "name": "Supplementaries Squared",
+      "fileName": "suppsquared-1.20-1.1.29.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7440/331/suppsquared-1.20-1.1.29.jar",
+      "size": 922956,
+      "sha1": "4072bbc6dd84f76006fb71a0c22103e849a03e77"
+    },
+    {
+      "name": "Tinkers Construct",
+      "fileName": "TConstruct-1.20.1-3.11.2.166.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7449/219/TConstruct-1.20.1-3.11.2.166.jar",
+      "size": 21572031,
+      "sha1": "94d07ec0ff45c49f5908beff7acb9fbec43fdde5"
+    },
+    {
+      "name": "TerraBlender (Forge)",
+      "fileName": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6290/448/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "size": 107532,
+      "sha1": "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc"
+    },
+    {
+      "name": "Terralith",
+      "fileName": "Terralith_1.20.x_v2.5.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5512/76/Terralith_1.20.x_v2.5.4.jar",
+      "size": 3156901,
+      "sha1": "79e1409b8db4ce86df9d6d6730f09c4bd8860a30"
+    },
+    {
+      "name": "Tinker and Better Combat",
+      "fileName": "TinkerBetterCombat 0.14.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7932/859/TinkerBetterCombat%200.14.jar",
+      "size": 16751,
+      "sha1": "342e8a158fccb1a1bc8e3adbe3dcfb970b24fd98"
+    },
+    {
+      "name": "Tom\u0027s Simple Storage Mod",
+      "fileName": "toms_storage-1.20-1.7.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6418/133/toms_storage-1.20-1.7.1.jar",
+      "size": 520148,
+      "sha1": "8b70aed9e35ad78fdc2f9fcb94a29dc64ba8d757"
+    },
+    {
+      "name": "Totem Before PlayerRevive",
+      "fileName": "totembeforeplayerrevive-1.0.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8252/77/totembeforeplayerrevive-1.0.0.jar",
+      "size": 108034,
+      "sha1": "da86cc28a6d1082fbe1aadf3a394384f04837fdf"
+    },
+    {
+      "name": "Towns and Towers",
+      "fileName": "Towns-and-Towers-1.12-Fabric\u002BForge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4923/828/Towns-and-Towers-1.12-Fabric%2bForge.jar",
+      "size": 2864275,
+      "sha1": "5a28ec56457cf1bf154e993cf73dba0428a7921b"
+    },
+    {
+      "name": "Twilight Spellbooks: Iron\u0027s Spells \u0027n Spellbooks Addon",
+      "fileName": "twilight_spellbooks-1.2.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8597/60/twilight_spellbooks-1.2.0.jar",
+      "size": 139754,
+      "sha1": "a0a63721069027f4cc84239c43009c48f961f4cd"
+    },
+    {
+      "name": "The Twilight Forest",
+      "fileName": "twilightforest-1.20.1-4.3.2508-universal.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5468/648/twilightforest-1.20.1-4.3.2508-universal.jar",
+      "size": 23332091,
+      "sha1": "fa3b506a45d3e9c465551cd533fd50c899496e9f"
+    },
+    {
+      "name": "Simple Voice Chat",
+      "fileName": "voicechat-forge-1.20.1-2.6.22.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8601/186/voicechat-forge-1.20.1-2.6.22.jar",
+      "size": 4923439,
+      "sha1": "cc94c3eecc325ea3066ee3cd8bf57142d1b11762"
+    },
+    {
+      "name": "What Are They Up To (Watut)",
+      "fileName": "watut-forge-1.20.1-1.2.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6315/241/watut-forge-1.20.1-1.2.3.jar",
+      "size": 435496,
+      "sha1": "d376debf1f96f37dbedf56919baeb7da2dcef9ab"
+    },
+    {
+      "name": "Waystones",
+      "fileName": "waystones-forge-1.20.1-14.1.20.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7682/270/waystones-forge-1.20.1-14.1.20.jar",
+      "size": 533738,
+      "sha1": "cde06d0f1e9042fb2e0b536a4d2c5443d129dd51"
+    },
+    {
+      "name": "Xaero\u0027s Minimap",
+      "fileName": "xaerominimap-forge-1.20.1-26.4.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8449/808/xaerominimap-forge-1.20.1-26.4.2.jar",
+      "size": 2195245,
+      "sha1": "8f5f747a33e787aaa3827b00eb0ad098966499ff"
+    },
+    {
+      "name": "Xaero\u0027s World Map",
+      "fileName": "xaeroworldmap-forge-1.20.1-1.45.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8698/646/xaeroworldmap-forge-1.20.1-1.45.0.jar",
+      "size": 1424881,
+      "sha1": "856b0317f31646ffe3b39a52b604bc7ee8822321"
+    },
+    {
+      "name": "Zeta",
+      "fileName": "Zeta-1.0-31.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7335/229/Zeta-1.0-31.jar",
+      "size": 1006518,
+      "sha1": "8c4a8ef0444b53ff408d5b89126285031081d92f"
+    }
+  ]
+}
