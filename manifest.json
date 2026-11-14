@@ -1,14 +1,14 @@
 ﻿{
   "packName": "Let\u0027s Rollplay",
-  "version": "1.0.2",
-  "publishedAt": "2026-11-12T19:33:50.6144629Z",
+  "version": "1.0.3",
+  "publishedAt": "2026-11-14T22:24:29.3836803Z",
   "minecraftVersion": "1.20.1",
   "forgeVersion": "47.4.10",
   "serverIp": "168.119.33.7",
   "serverPort": 25545,
   "overridesUrl": "https://raw.githubusercontent.com/Pralex28/lets-rollplay-updates/main/overrides.zip",
-  "overridesSha256": "bb95d853c5e666a1a8bcdc0f1422bb33c26d14b6955201d8c180683b97df2d26",
-  "overridesSize": 1735282,
+  "overridesSha256": "a41e5c0849f4ca8e3d7e138832b9f04fe27c5a876cfe4c597ac9be133170b855",
+  "overridesSize": 1735289,
   "mods": [
     {
       "name": "Large Ore Deposits",
@@ -725,6 +725,13 @@
       "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22"
     },
     {
+      "name": "KubeJS",
+      "fileName": "kubejs-forge-2001.6.5-build.26.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8020/595/kubejs-forge-2001.6.5-build.26.jar",
+      "size": 1658792,
+      "sha1": "8b0cc9797d4ed00fd2d1002d58960af8b32012ae"
+    },
+    {
       "name": "L_Ender \u0027s Cataclysm",
       "fileName": "L_Enders_Cataclysm-3.31.jar",
       "downloadUrl": "https://edge.forgecdn.net/files/8246/47/L_Enders_Cataclysm-3.31.jar",
@@ -1003,6 +1010,13 @@
       "downloadUrl": "https://edge.forgecdn.net/files/5659/871/resourcefullib-forge-1.20.1-2.1.29.jar",
       "size": 432753,
       "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
+    },
+    {
+      "name": "Rhino",
+      "fileName": "rhino-forge-2001.2.3-build.10.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6186/971/rhino-forge-2001.2.3-build.10.jar",
+      "size": 1798244,
+      "sha1": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1"
     },
     {
       "name": "Embeddium (Rubidium) Extra",
