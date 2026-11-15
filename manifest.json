@@ -1,14 +1,14 @@
 ﻿{
   "packName": "Let\u0027s Rollplay",
-  "version": "1.0.3",
-  "publishedAt": "2026-11-14T22:24:29.3836803Z",
+  "version": "1.0.4",
+  "publishedAt": "2026-11-15T22:50:45.6819933Z",
   "minecraftVersion": "1.20.1",
   "forgeVersion": "47.4.10",
   "serverIp": "168.119.33.7",
   "serverPort": 25545,
   "overridesUrl": "https://raw.githubusercontent.com/Pralex28/lets-rollplay-updates/main/overrides.zip",
-  "overridesSha256": "a41e5c0849f4ca8e3d7e138832b9f04fe27c5a876cfe4c597ac9be133170b855",
-  "overridesSize": 1735289,
+  "overridesSha256": "b90d25eeaf37c8697d1a0585f029536d2332fdd42667746e6dd6def5ec693603",
+  "overridesSize": 1735144,
   "mods": [
     {
       "name": "Large Ore Deposits",
@@ -389,13 +389,6 @@
       "sha1": "cacd9bb861428421687d1061e383368f2e11a105"
     },
     {
-      "name": "Dreamshift",
-      "fileName": "dreamshift-0.1.4.3.1-forge.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8750/240/dreamshift-0.1.4.3.1-forge.jar",
-      "size": 517417313,
-      "sha1": "c142c83b3a6ac5e2b10dd2f0fa84ea3270c29f75"
-    },
-    {
       "name": "Dungeon Crawl",
       "fileName": "Dungeon Crawl-1.20.1-2.3.15.jar",
       "downloadUrl": "https://edge.forgecdn.net/files/6047/153/Dungeon%20Crawl-1.20.1-2.3.15.jar",
@@ -478,13 +471,6 @@
       "downloadUrl": "https://edge.forgecdn.net/files/8287/86/entityculling-forge-1.10.5-mc1.20.1.jar",
       "size": 1590221,
       "sha1": "b818f6d792b79f4ec116c89704e70292bd6f72b5"
-    },
-    {
-      "name": "Evil Hunter 3.0 [Horror]",
-      "fileName": "evilhunter-3.0.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8824/640/evilhunter-3.0.jar",
-      "size": 227491433,
-      "sha1": "f0f99bff91b8ff1d49433c22311eb0c403099ce0"
     },
     {
       "name": "Explorer\u0027s Compass",
@@ -632,6 +618,13 @@
       "downloadUrl": "https://edge.forgecdn.net/files/8348/481/ImmediatelyFast-Forge-1.5.5%2b1.20.4.jar",
       "size": 532063,
       "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2"
+    },
+    {
+      "name": "immersive-portals-3.0.7-all",
+      "fileName": "immersive-portals-3.0.7-all.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/Pralex28/lets-rollplay-updates/main/mods/immersive-portals-3.0.7-all.jar",
+      "size": 2137648,
+      "sha1": "b4a6d71ca7dc07a1da33e7272befabc6ce95057b"
     },
     {
       "name": "Integrated API",
@@ -898,13 +891,6 @@
       "downloadUrl": "https://edge.forgecdn.net/files/7682/985/ok_zoomer-forge-5.4.0-beta.9.jar",
       "size": 530268,
       "sha1": "68578eb7a2bb2f7c1eba041d67e558ebe5e63414"
-    },
-    {
-      "name": "Otherworld [Horror]",
-      "fileName": "otherworld-0.9.2.12.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9249/237/otherworld-0.9.2.12.jar",
-      "size": 73854252,
-      "sha1": "76b822d2719ac0cc252b44cb6f1478aff1382e8b"
     },
     {
       "name": "Packet Fixer",
