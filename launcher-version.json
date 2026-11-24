@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.3.0",
-    "dllSha256":  "f39ced6a4a5611c53bc01fc38b5673ccfdb404334c0ee4dcf45f430082169e04",
-    "packageSha256":  "e5e42d6130a890a64f5e4501c97f2229d114c1272485ab4eaeb6941ad37042ba",
+    "version":  "1.4.0",
+    "dllSha256":  "6c0bd98a83e0c3e92370c1c29cdfc2786edaa266a300ead3fc4b4ab13dde1243",
+    "packageSha256":  "3fc2be215a7946787abd857a568e052f24f0ac7b8ecbdab308a5cb177ffecffd",
     "packageUrl":  "https://raw.githubusercontent.com/Pralex28/lets-rollplay-updates/main/launcher/launcher-update.zip",
-    "publishedAtUtc":  "2026-11-18T20:26:27.0290614Z"
+    "publishedAtUtc":  "2026-11-24T18:59:51.3179963Z"
 }
