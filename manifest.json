@@ -1,7 +1,7 @@
 ﻿{
   "packName": "Let\u0027s Rollplay",
-  "version": "1.0.5",
-  "publishedAt": "2026-11-16T10:53:03.6578047Z",
+  "version": "1.0.6",
+  "publishedAt": "2026-11-24T18:45:25.0427139Z",
   "minecraftVersion": "1.20.1",
   "forgeVersion": "47.4.10",
   "serverIp": "168.119.33.7",
@@ -618,6 +618,13 @@
       "downloadUrl": "https://edge.forgecdn.net/files/8348/481/ImmediatelyFast-Forge-1.5.5%2b1.20.4.jar",
       "size": 532063,
       "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2"
+    },
+    {
+      "name": "Immersive Melodies",
+      "fileName": "immersive_melodies-0.8.4-1.20.1-forge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9653/75/immersive_melodies-0.8.4-1.20.1-forge.jar",
+      "size": 5570280,
+      "sha1": "8b7aef05d1d1bea6141c43d87fd6fc5bed5e67eb"
     },
     {
       "name": "immersive-portals-3.0.7-all",
