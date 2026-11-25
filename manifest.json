@@ -1,7 +1,7 @@
 ﻿{
   "packName": "Let\u0027s Rollplay",
-  "version": "1.0.11",
-  "publishedAt": "2026-11-24T19:05:32.0331035Z",
+  "version": "1.0.12",
+  "publishedAt": "2026-11-25T21:10:16.7363238Z",
   "minecraftVersion": "1.20.1",
   "forgeVersion": "47.4.10",
   "serverIp": "168.119.33.7",
@@ -835,6 +835,13 @@
       "downloadUrl": "https://edge.forgecdn.net/files/7563/777/Mantle-1.20.1-1.11.104.jar",
       "size": 1625005,
       "sha1": "8a3f948f8c505ee92dae915ec0a1593594eb2667"
+    },
+    {
+      "name": "Mekanism",
+      "fileName": "Mekanism-1.20.1-10.4.16.80.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6552/911/Mekanism-1.20.1-10.4.16.80.jar",
+      "size": 12558456,
+      "sha1": "b7f12ae710888b01746507a0aa8cb375f5897158"
     },
     {
       "name": "Metal Barrels",
